@@ -1,0 +1,1 @@
+In this challenge I learned how to manipulate Dom elements using the .querySelector function and also what EventListeners are. THe most important thing I learned however is that these -> `` are much different than '' or "" from what it looks like I have to use `` when I put in an argument for a querySelector.
